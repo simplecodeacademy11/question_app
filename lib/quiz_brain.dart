@@ -11,12 +11,6 @@ class QuizBrain {
     Question('Mongold dalai baidag uu', true), //6
     Question('Mongold naadam boldog uu', true), //7
   ];
-  // List<String> asuult = ['sdkfdskjfjk', 'jksddskjdsjk', 'jksjkdsjsdk'];
-  // List<Map<int, String>> score = [
-  //   {1: "bat"},
-  //   {2: "solongo"},
-  //   {3: "saraa"},
-  // ];
 
   int questionsNumber = 0;
 
